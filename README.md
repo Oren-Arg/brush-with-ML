@@ -4,4 +4,4 @@ I added notes in the Jupiter notebook along with my code explaining the steps, t
 
 I hope that my work is adequate for this course and I would like to get a feedback if possible.
 
-I mainly learned from seborn and scikit how to accomplish this project.
+I mainly learned from seaborn and scikit documentation how to accomplish this project.
